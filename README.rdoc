@@ -1,0 +1,33 @@
+= Welcome to myotherskills.com
+
+myotherskills.com is a place for you to tell the world everything you can do. Then join groups with others and see everything your group can do. 
+
+This is the source code for myotherskills.com...venture in if you dare. Rubyl33ts beware! A wouldbe rubynoob is responsible for this code. He did his best 
+
+== Why we are an open-code company?
+
+We want to give back to the community. For those who want to take a look inside the application to see how we did some very cool (or lame) thing on our site, you can see the actual source.
+
+Let's face it - none of us can do it all alone. We all need insight, suggestions, critiquing, and just plain help. We decided to put our code out there for the world to see. (Well, not all of it. We kept the database passwords to ourselves. I'm mean, sheesh. Our customers I have this whole hang-up thing on the privacy and protection of their data.)
+
+So.
+
+Give us a hand. Pile through the code. If you would like to commit, we will give you credit.
+
+== Commit and Become a 'Committed' Member
+
+If you commit to the project we will give you mention on our "Open Source Committers" page. You will also have full access to any of the feature adds we may choose to provide in the future, free of charge.
+
+== The guts?
+
+Here is a list of the plugins/gems we are using in our application to make our life a little easier.
+
+* <b>Authlogic</b>: http://github.com/binarylogic/authlogic/
+* <b>State_Select</b>: http://github.com/sprsquish/state_select/
+* <b>Thinking_Sphinx</b>: http://freelancing-god.github.com/ts/en/
+
+== The legals
+
+myotherskills.com is a registered trademark of D.a. Thompson, Inc. Whereas we want people to benefit from seeing our code, all copyright, trademarks, likeness, user data and unique services belong to and are owned by D.a. Thompson Inc.
+
+myotherskills.com (c)2009 D.a. Thompson, Inc. All Rights Reserved.

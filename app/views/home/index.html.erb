@@ -1,0 +1,30 @@
+<%= render :partial => "sub_navigation" %>
+<div id="side">
+	<ul id="subnav">
+        <li id="subnav"><%= link_to "how does this work?", {:controller => "/home/how"} %></li>
+        <li id="subnav"><%= link_to "how do I start?", {:controller => "/home/start"} %></li>
+	</ul>
+</div>
+
+<div id="mainSection">
+		<table class="mainTable" border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tr>
+				<td align="center">
+					<img src="/images/frontpic.png" />
+				</td>
+			</tr>
+		</table>		
+		<h3>what's new?!</h3>
+		<table class="newsTable" border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tr class="newsHeaderRow" height="20px">
+				<td>june 26, 2008</td>
+			</tr>
+			<tr class="newsContentRow">
+				<td>
+					We have opened sourced our code! Please feel free to check it out at <a href="http://code.myotherskills.com" class="tRowLink">code.myotherskills.com</a>. You are welcome to look around, check it out and even contribute if you like.
+				</td>
+			</tr>
+		</table>
+</div>
+
+<%= render(:partial => "recent_side") %>

@@ -1,0 +1,46 @@
+body {
+	font-style: Veranda, Arial, sans-serif;
+}
+
+p {
+	margin: 10;
+}
+h3 {
+	color: #333; 
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 12px; 
+	font-weight: bold;
+	margin: 5px 0px 0px 0px;
+	padding: 0px;
+}
+h4 {
+	color: #cc6600; 
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 14px; 
+	font-weight: bold;
+	margin: 5px 0px 0px 30px;
+	padding: 0px;
+	text-align: left;
+}
+.logotext {
+	font: 0.7em Tahoma, sans-serif;
+	font-size:28px;
+	font-weight:bold;
+	color: #999999;
+	margin-left: 20px;
+}
+.greenlogotext {
+	font: 0.7em Tahoma, sans-serif;
+	font-size:28px;
+	font-weight:bold;
+	color:#44dd00;
+}
+.footertext {
+	color: #999;
+}
+.smallgreytext {
+	color: #cc6600;
+}
+.warning {
+	color: #cc6600;
+}
