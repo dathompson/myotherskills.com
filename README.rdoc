@@ -2,13 +2,11 @@
 
 myotherskills.com is a place for you to tell the world everything you can do. Then join groups with others and see everything your group can do. 
 
-This is the source code for myotherskills.com...venture in if you dare. Rubyl33ts beware! A wouldbe rubynoob is responsible for this code. He did his best 
+This is the source code for myotherskills.com...venture in if you dare. Rubyl33ts beware! A wouldbe rubynoob is responsible for this code. He did his best and dares to do better.
 
-== Why we are an open-code company?
+== Why we are an open-source company?
 
-We want to give back to the community. For those who want to take a look inside the application to see how we did some very cool (or lame) thing on our site, you can see the actual source.
-
-Let's face it - none of us can do it all alone. We all need insight, suggestions, critiquing, and just plain help. We decided to put our code out there for the world to see. (Well, not all of it. We kept the database passwords to ourselves. I'm mean, sheesh. Our customers I have this whole hang-up thing on the privacy and protection of their data.)
+Let's face it - none of us can do it all alone. We all need insight, suggestions, critiquing, and just plain help. We decided to put our code out there for the world to see. (Well, not all of it. We kept the database passwords to ourselves. I'm mean, sheesh. Our customers have this whole hang-up thing on the privacy and protection of their data.) We wanted to put our source out there to help others see how we did it and then to have you make suggestions on how we can improve our code.
 
 So.
 
@@ -27,6 +25,8 @@ Here is a list of the plugins/gems we are using in our application to make our l
 * <b>Thinking_Sphinx</b>: http://freelancing-god.github.com/ts/en/
 
 == The legals
+
+yeah...we gotta say 'em
 
 myotherskills.com is a registered trademark of D.a. Thompson, Inc. Whereas we want people to benefit from seeing our code, all copyright, trademarks, likeness, user data and unique services belong to and are owned by D.a. Thompson Inc.
 
